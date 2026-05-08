@@ -6,5 +6,5 @@ I asked Claude to make a plugin for me.
 
 
 
-
+plugin-shot.jpg
 
