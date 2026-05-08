@@ -6,7 +6,7 @@ I asked Claude to make a plugin for me.
 
 
 
-![https://github.com/henkvantijen/CopyParty-Icon-Plugin/blob/main/plugin-shot.jpg]
+<img src=https://github.com/henkvantijen/CopyParty-Icon-Plugin/blob/main/plugin-shot.jpg>
 
 
 
